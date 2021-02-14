@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XrenynTheMage
+- 👋 Hi, I’m Thomas Fritz, with Xrenyn being my artist name.
 - 👀 I’m interested in all things art, especially in composing and producing music that grabs you by the heart, and - of course - in software development
 - 🌱 I’m currently learning how to build a Hololens 2 App with Unity and MRTK, at the same time I'm getting prepared to write an epic fantasy short film, 
 which will undoubtibly be the biggest creative project I've worked on.
